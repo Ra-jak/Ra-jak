@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Technical Trainer | Coder | Tech Enthusiast
+  Student | Coder | Tech Enthusiast
 </p>
 
 <div align="center">
